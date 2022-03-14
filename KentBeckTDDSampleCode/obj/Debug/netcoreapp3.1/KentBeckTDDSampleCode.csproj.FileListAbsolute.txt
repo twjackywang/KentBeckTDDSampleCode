@@ -1,0 +1,14 @@
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\bin\Debug\netcoreapp3.1\KentBeckTDDSampleCode.exe
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\bin\Debug\netcoreapp3.1\KentBeckTDDSampleCode.deps.json
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\bin\Debug\netcoreapp3.1\KentBeckTDDSampleCode.runtimeconfig.json
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\bin\Debug\netcoreapp3.1\KentBeckTDDSampleCode.runtimeconfig.dev.json
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\bin\Debug\netcoreapp3.1\KentBeckTDDSampleCode.dll
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\bin\Debug\netcoreapp3.1\KentBeckTDDSampleCode.pdb
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\obj\Debug\netcoreapp3.1\KentBeckTDDSampleCode.csproj.AssemblyReference.cache
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\obj\Debug\netcoreapp3.1\KentBeckTDDSampleCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\obj\Debug\netcoreapp3.1\KentBeckTDDSampleCode.AssemblyInfoInputs.cache
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\obj\Debug\netcoreapp3.1\KentBeckTDDSampleCode.AssemblyInfo.cs
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\obj\Debug\netcoreapp3.1\KentBeckTDDSampleCode.csproj.CoreCompileInputs.cache
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\obj\Debug\netcoreapp3.1\KentBeckTDDSampleCode.dll
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\obj\Debug\netcoreapp3.1\KentBeckTDDSampleCode.pdb
+D:\KentBeckTDDSampleCode\KentBeckTDDSampleCode\obj\Debug\netcoreapp3.1\KentBeckTDDSampleCode.genruntimeconfig.cache
