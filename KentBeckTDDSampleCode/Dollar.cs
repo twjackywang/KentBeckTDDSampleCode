@@ -13,9 +13,10 @@ namespace KentBeckTDDSampleCode
             Amount = amount;
         }
 
-        public void Times(int multiple)
+        public Dollar Times(int multiple)
         {
-            Amount *= multiple;
+            //Amount *= multiple;
+            return new Dollar(Amount * multiple);
         }
     }
 }
