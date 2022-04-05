@@ -15,6 +15,8 @@ namespace KentBeckTDDSampleCode
             Dollar five = new Dollar(5);
             five.Times(2);
             Assert.AreEqual(10, five.Amount);
+            five.Times(3);
+            Assert.AreEqual(15, five.Amount);
         }
     }
 }
